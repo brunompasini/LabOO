@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1593139690 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\disciplina.cpp
+	"Disciplina.h"
+
+1593139645 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\disciplina.h
+	"Perfil.h"
+	"Professor.h"
+	<string>
+	<iostream>
+
+1593138552 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\perfil.h
+	<string>
+	<vector>
+	<list>
+	<stdexcept>
+	"Evento.h"
+	"Mensagem.h"
+
+1593139541 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\professor.h
+	"Pessoa.h"
+	<string>
+	<iostream>
+
+1593217564 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\evento.cpp
+	"Evento.h"
+	"Perfil.h"
+
+1593217564 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\evento.h
+	<string>
+	<iostream>
+	"Publicacao.h"
+
+1593120581 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\publicacao.h
+	<string>
+	<iostream>
+
+1593139593 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\professor.cpp
+	"Professor.h"
+	"Perfil.h"
+	<string>
+	<iostream>
+
+1593032034 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\publicacao.cpp
+	"Publicacao.h"
+	"Perfil.h"
+
+1593217607 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\redesocial.cpp
+	"RedeSocial.h"
+	"Perfil.h"
+	"Professor.h"
+	"Disciplina.h"
+	<iostream>
+
+1593136822 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\redesocial.h
+	"Perfil.h"
+	"Publicacao.h"
+	"PerfilInexistente.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1593031312 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\disciplina.cpp
+	"Disciplina.h"
+
+1588821932 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\disciplina.h
+	"Perfil.h"
+	"Professor.h"
+	<string>
+	<iostream>
+
+1593120555 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\perfil.h
+	<string>
+	<vector>
+	<list>
+	"Evento.h"
+	"Mensagem.h"
+
+1593121189 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\professor.h
+	"Pessoa.h"
+	<string>
+	<iostream>
+
+1593120676 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\evento.cpp
+	"Evento.h"
+	"Perfil.h"
+
+1593118780 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\evento.h
+	<string>
+	<iostream>
+	"Publicacao.h"
+
+1593120581 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\publicacao.h
+	<string>
+	<iostream>
+
+1593033389 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\mensagem.cpp
+	"Mensagem.h"
+
+1593119192 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\mensagem.h
+	<string>
+	"Perfil.h"
+	"Publicacao.h"
+
+1593099652 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\aluno.cpp
+	"Aluno.h"
+
+1593034014 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\aluno.h
+	<string>
+	<iostream>
+	"Pessoa.h"
+
+1593121211 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\pessoa.h
+	"Perfil.h"
+
+1593098613 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\perfilinexistente.cpp
+	"PerfilInexistente.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1589914651 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\perfilinexistente.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1593118298 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdexcept>
+	"Perfil.h"
+	"Pessoa.h"
+	"Aluno.h"
+	"Professor.h"
+	"Disciplina.h"
+	"Publicacao.h"
+	"Mensagem.h"
+	"Evento.h"
+	"RedeSocial.h"
+	"PerfilInexistente.h"
+	"PersistenciaDaRede.h"
+
+1593122480 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\redesocial.h
+	"Perfil.h"
+	"Publicacao.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1593099158 c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\persistenciadarede.h
+	<iostream>
+	<string>
+	<fstream>
+	"Perfil.h"
+	"Aluno.h"
+	"RedeSocial.h"
+
+1592944489 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\pessoa.cpp
+	"Pessoa.h"
+
+1593120539 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\perfil.cpp
+	"Perfil.h"
+	"Publicacao.h"
+	<iostream>
+	<vector>
+	<list>
+
+1593032034 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\publicacao.cpp
+	"Publicacao.h"
+	"Perfil.h"
+
+1593031094 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\professor.cpp
+	"Professor.h"
+	"Perfil.h"
+	<string>
+	<iostream>
+
+1593122583 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\persistenciadarede.cpp
+	"PersistenciaDaRede.h"
+
+1593122518 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\kkkk\redesocial.cpp
+	"RedeSocial.h"
+	"Perfil.h"
+	"Professor.h"
+	"Disciplina.h"
+	<iostream>
+
+1593135328 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\aluno.cpp
+	"Aluno.h"
+
+1593134900 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\aluno.h
+	<string>
+	<iostream>
+	"Pessoa.h"
+
+1593134918 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\pessoa.h
+	"Perfil.h"
+
+1593119192 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\mensagem.h
+	<string>
+	"Perfil.h"
+	"Publicacao.h"
+
+1593033389 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\mensagem.cpp
+	"Mensagem.h"
+
+1593098613 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\perfilinexistente.cpp
+	"PerfilInexistente.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1589914651 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\perfilinexistente.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1593197378 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\persistenciadarede.cpp
+	"PersistenciaDaRede.h"
+	<fstream>
+
+1593139444 c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\persistenciadarede.h
+	<iostream>
+	<string>
+	<fstream>
+	"Perfil.h"
+	"Aluno.h"
+	"Professor.h"
+	"Disciplina.h"
+	"RedeSocial.h"
+
+1592944489 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\pessoa.cpp
+	"Pessoa.h"
+
+1593216761 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<list>
+	<stdexcept>
+	"Perfil.h"
+	"Pessoa.h"
+	"Aluno.h"
+	"Professor.h"
+	"Disciplina.h"
+	"Publicacao.h"
+	"Mensagem.h"
+	"Evento.h"
+	"RedeSocial.h"
+	"PerfilInexistente.h"
+	"PersistenciaDaRede.h"
+
+1593178973 source:c:\users\bruno\desktop\poli\2020.1\pcs3111\ep2\perfil.cpp
+	"Perfil.h"
+	"Publicacao.h"
+	<iostream>
+	<vector>
+	<list>
+
